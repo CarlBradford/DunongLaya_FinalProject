@@ -28,14 +28,24 @@ The platform serves as both a content management system for publication staff an
 
 ## 📱 App Preview
 
+## 📱 App Preview
+
+#### Mobile View
 <div align="center">
-  <img src="screenshots/screenshot1.png" alt="App Screenshot 1" width="200"/>
-  <img src="screenshots/screenshot2.png" alt="App Screenshot 2" width="200"/>
-  <img src="screenshots/screenshot3.png" alt="App Screenshot 3" width="200"/>
-  <img src="screenshots/screenshot4.png" alt="App Screenshot 4" width="200"/>
-  <img src="screenshots/screenshot2.png" alt="App Screenshot 2" width="200"/>
-  <img src="screenshots/screenshot3.png" alt="App Screenshot 3" width="200"/>
-  <img src="screenshots/screenshot4.png" alt="App Screenshot 4" width="200"/>
+  <img src="https://drive.google.com/uc?export=view&id=19NyfUaqhTXNlOzm21WsWexN5xiT669Rx" alt="Home Screen" width="250">
+  <img src="https://drive.google.com/uc?export=view&id=1yJvJSZYgTj4x-24eGnEkpxMPA4-iZj6G" alt="Article Detail Page" width="250">
+  <img src="https://drive.google.com/uc?export=view&id=1TBSWPiA1Mv6yXvfCXeoecNSUEeQN68RF" alt="Welcome Screen" width="250">
+</div>
+
+#### Web View
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1h4adn4-dRMsEaO2mZd7YmK40bIPptDw6" alt="Dashboard Overview" width="450">
+  <img src="https://drive.google.com/uc?export=view&id=1FnKulW8A-M-ju4jpnlUhjX6QwGGplCe6" alt="Article Management" width="450">
+</div>
+
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1DWi0skdfbLaNeIo8EjeCma8pzsMzbqtZ" alt="User Management" width="450">
+  <img src="https://drive.google.com/uc?export=view&id=13M42cJ1Pk19is7PypLVdeEpeke9WDLCD" alt="Analytics Dashboard" width="450">
 </div>
 
 ## 🎯 Problem & Solution
