@@ -26,6 +26,15 @@ The platform serves as both a content management system for publication staff an
 
 </div>
 
+## 📱 App Preview
+
+<div align="center">
+  <img src="screenshots/screenshot1.png" alt="App Screenshot 1" width="200"/>
+  <img src="screenshots/screenshot2.png" alt="App Screenshot 2" width="200"/>
+  <img src="screenshots/screenshot3.png" alt="App Screenshot 3" width="200"/>
+  <img src="screenshots/screenshot4.png" alt="App Screenshot 4" width="200"/>
+</div>
+
 ## 🎯 Problem & Solution
 
 **The Problem:**
@@ -101,8 +110,8 @@ Flutter was selected because it allowed the team to create both mobile and web v
 ### Setup Steps
 ```bash
 # Clone repository
-git clone https://github.com/memelll/DunongLaya.git
-cd DunongLaya
+git clone https://github.com/CarlBradford/DunongLaya_FinalProject.git
+cd DunongLaya_FinalProject
 
 # Install dependencies
 flutter pub get
