@@ -28,8 +28,6 @@ The platform serves as both a content management system for publication staff an
 
 ## 📱 App Preview
 
-## 📱 App Preview
-
 #### Mobile View
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=19NyfUaqhTXNlOzm21WsWexN5xiT669Rx" alt="Home Screen" width="250">
