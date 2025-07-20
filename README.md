@@ -7,8 +7,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/BSU-TNEU%20Alangilan-1f3a34?style=for-the-badge&labelColor=1f3a34&color=c9a44a" alt="BSU TNEU Alangilan"/>
-  <img src="https://img.shields.io/badge/Flutter-3.32-1f3a34?style=for-the-badge&logo=flutter&logoColor=fdfff1&labelColor=1f3a34&color=c9a44a" alt="Flutter 3.32"/>
-  <img src="https://img.shields.io/badge/Final%20Project-IT%20331%20%7C%20IT%20332-1f3a34?style=for-the-badge&labelColor=1f3a34&color=c9a44a" alt="Final Project"/>
+  <img src="https://img.shields.io/badge/Flutter-3.8.1-1f3a34?style=for-the-badge&logo=flutter&logoColor=fdfff1&labelColor=1f3a34&color=c9a44a" alt="Flutter 3.32"/>
+  <img src="https://img.shields.io/badge/Final%20Project-IT%20331-1f3a34?style=for-the-badge&labelColor=1f3a34&color=c9a44a" alt="Final Project"/>
   <img src="https://img.shields.io/badge/Status-Complete-1f3a34?style=for-the-badge&labelColor=1f3a34&color=c9a44a" alt="Complete"/>
 </div>
 
@@ -91,7 +91,7 @@ Built using **Agile Development Model** with iterative development cycles, allow
 
 <div align="justify">
 
-- **Flutter SDK 3.32** for cross-platform development (Android and Web)
+- **Flutter SDK 3.8.1** for cross-platform development (Android and Web)
 - **Mobile-first responsive design** ensuring accessibility across devices
 - Chosen for rapid prototyping and single codebase deployment
 
@@ -102,7 +102,7 @@ Flutter was selected because it allowed the team to create both mobile and web v
 ## 🚀 Installation
 
 ### Prerequisites
-- Flutter SDK 3.32 or higher
+- Flutter SDK 3.8.1
 - VS Code with Flutter extensions
 - Chrome browser (for web development)
 - Git
@@ -156,13 +156,13 @@ The testing validated that DunongLaya successfully addresses the original proble
 
 <div align="center">
 
-**IT 331 & IT 332 Final Project - Group 8**
+**IT 331 Final Project - Group 8**
 
 </div>
 
 <div align="justify">
 
-This project represents the completion of Application Development and Emerging Technologies (IT 331) and Integrative Programming and Technologies (IT 332) coursework, demonstrating practical application of software development principles in solving real-world problems for student journalism.
+This project represents the completion of IT 331 Application Development and Emerging Technologies coursework, demonstrating practical application of software development principles in solving real-world problems for student journalism.
 
 </div>
 
@@ -170,11 +170,11 @@ This project represents the completion of Application Development and Emerging T
 
 | Name | SR Code | Role |
 |------|------------|--------|
-| De Sagun, Carl Bradford M. | 22-06966 | Lead Developer |
-| Lucero, Gio Kervin P. | 22-03412 | Lead Developer |
-| Magnaye, Maria Lourdes M. | 22-03152 | Lead Developer |
+| De Sagun, Carl Bradford M. | 22-06966 | Lead Developer & Presentation Lead |
+| Lucero, Gio Kervin P. | 22-03412 | Documentation Lead & Data Provider |
+| Magnaye, Maria Lourdes M. | 22-03152 | Assistant Developer & Co-Documentation Lead |
 
-**Instructors:** Mr. Jhon Glenn L. Manalo, Mr. Edbert Ocampo
+**Instructor:** Mr. Edbert Ocampo
 
 </div>
 
