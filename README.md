@@ -33,6 +33,9 @@ The platform serves as both a content management system for publication staff an
   <img src="screenshots/screenshot2.png" alt="App Screenshot 2" width="200"/>
   <img src="screenshots/screenshot3.png" alt="App Screenshot 3" width="200"/>
   <img src="screenshots/screenshot4.png" alt="App Screenshot 4" width="200"/>
+  <img src="screenshots/screenshot2.png" alt="App Screenshot 2" width="200"/>
+  <img src="screenshots/screenshot3.png" alt="App Screenshot 3" width="200"/>
+  <img src="screenshots/screenshot4.png" alt="App Screenshot 4" width="200"/>
 </div>
 
 ## 🎯 Problem & Solution
